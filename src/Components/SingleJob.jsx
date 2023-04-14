@@ -1,5 +1,6 @@
 
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 const SingleJob = ({ job }) => {
     const { id, name, jobtitle, images, jobStructure1, jobStructure2, place, salary } = job
@@ -23,7 +24,7 @@ const SingleJob = ({ job }) => {
                 </div>
             </div>
             <div>
-            <button className='btn btn-secondary ms-3 mb-3 '> Show Details</button>
+            <Link to ={`/job/${id}`} className='btn btn-secondary ms-3 mb-3 '> Show Details</Link>
             </div>
             
         </div>
