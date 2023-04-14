@@ -12,8 +12,8 @@ const Home = () => {
 
     return (
         <div className='ms-28 mr-20 mt-8 mb-20'>
-            <div className='flex justify-between mb-12'>
-                <div className='pt-28'>
+            <div className='lg:flex justify-between mb-12 '>
+                <div className='pt-28 '>
                     <h1 className='text-6xl font-bold'>One Step <br /> Closer To Your <br />
                         <span className='text-purple-500'>Dream Job</span> </h1>
                     <br />
