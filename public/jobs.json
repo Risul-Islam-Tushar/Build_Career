@@ -1,0 +1,93 @@
+[
+    {
+        "id": 1,
+        "name": "Technical Database Engineer",
+        "jobtitle": "Google LLC",
+        "images": "../assets/Logo/google-1-1 1-1.png",
+        "jobStructure1":"remote",
+        "jobStructure2":"Full Time",
+        "place": "Dhaka,Bangladesh",
+        "salary": "100k-150k",
+        "description": "job Description involves overseeing the accounting department, monitoring and recording financial transactions, preparing financial statements and maintaining records of accounts. Responsibilities include budgeting, forecasting, analyzing financial reports, preparing financial statements and providing financial advice. ",
+        "responsibility": "Responsibilities include configuring, managing, and troubleshooting network devices, ensuring compliance with standards and requirements, and providing technical support.",
+        "edecation":"a bachelor's degree in accounting or related field.",
+        "experiance":"Experience in accounting and management is preferred"
+      
+    },
+    {
+        "id": 2,
+        "name": "Senior Product Designer",
+        "jobtitle": "Netflix",
+        "images": "../assets/Logo/netflix-4 1.png",
+        "jobStructure1":"remote",
+        "jobStructure2":"Full Time",
+        "place": "Dhaka,Bangladesh",
+        "salary": "100k-150k",
+        "description": "job Description involves overseeing the accounting department, monitoring and recording financial transactions, preparing financial statements and maintaining records of accounts. Responsibilities include budgeting, forecasting, analyzing financial reports, preparing financial statements and providing financial advice. ",
+        "responsibility": "Responsibilities include configuring, managing, and troubleshooting network devices, ensuring compliance with standards and requirements, and providing technical support.",
+        "edecation":"a bachelor's degree in accounting or related field.",
+        "experiance":"Experience in accounting and management is preferred"
+      
+    },
+    {
+        "id": 3,
+        "name": "Software Engineer",
+        "jobtitle": "tesla",
+        "images": "../All Images/tesla-9 1.png",
+        "jobStructure1":"remote",
+        "jobStructure2":"Full Time",
+        "place": "Dhaka,Bangladesh",
+        "salary": "100k-150k",
+        "description": "job Description involves overseeing the accounting department, monitoring and recording financial transactions, preparing financial statements and maintaining records of accounts. Responsibilities include budgeting, forecasting, analyzing financial reports, preparing financial statements and providing financial advice. ",
+        "responsibility": "Responsibilities include configuring, managing, and troubleshooting network devices, ensuring compliance with standards and requirements, and providing technical support.",
+        "edecation":"a bachelor's degree in accounting or related field.",
+        "experiance":"Experience in accounting and management is preferred"
+      
+    },
+    {
+        "id": 3,
+        "name": "Technical Database Engineer",
+        "jobtitle": "Google LLC",
+        "images": "../All Images/Vector-1.png",
+        "jobStructure1":"remote",
+        "jobStructure2":"Full Time",
+        "place": "Dhaka,Bangladesh",
+        "salary": "100k-150k",
+        "description": "job Description involves overseeing the accounting department, monitoring and recording financial transactions, preparing financial statements and maintaining records of accounts. Responsibilities include budgeting, forecasting, analyzing financial reports, preparing financial statements and providing financial advice. ",
+        "responsibility": "Responsibilities include configuring, managing, and troubleshooting network devices, ensuring compliance with standards and requirements, and providing technical support.",
+        "edecation":"a bachelor's degree in accounting or related field.",
+        "experiance":"Experience in accounting and management is preferred"
+      
+    },
+    {
+        "id": 3,
+        "name": "Technical Database Engineer",
+        "jobtitle": "Google LLC",
+        "images": "../All Images/Vector.png",
+        "jobStructure1":"remote",
+        "jobStructure2":"Full Time",
+        "place": "Dhaka,Bangladesh",
+        "salary": "100k-150k",
+        "description": "job Description involves overseeing the accounting department, monitoring and recording financial transactions, preparing financial statements and maintaining records of accounts. Responsibilities include budgeting, forecasting, analyzing financial reports, preparing financial statements and providing financial advice. ",
+        "responsibility": "Responsibilities include configuring, managing, and troubleshooting network devices, ensuring compliance with standards and requirements, and providing technical support.",
+        "edecation":"a bachelor's degree in accounting or related field.",
+        "experiance":"Experience in accounting and management is preferred"
+      
+    },
+    {
+        "id": 3,
+        "name": "Technical Database Engineer",
+        "jobtitle": "Google LLC",
+        "images": "../assets/Logo/google-1-1 1-1.png",
+        "jobStructure1":"remote",
+        "jobStructure2":"Full Time",
+        "place": "Dhaka,Bangladesh",
+        "salary": "100k-150k",
+        "description": "job Description involves overseeing the accounting department, monitoring and recording financial transactions, preparing financial statements and maintaining records of accounts. Responsibilities include budgeting, forecasting, analyzing financial reports, preparing financial statements and providing financial advice. ",
+        "responsibility": "Responsibilities include configuring, managing, and troubleshooting network devices, ensuring compliance with standards and requirements, and providing technical support.",
+        "edecation":"a bachelor's degree in accounting or related field.",
+        "experiance":"Experience in accounting and management is preferred"
+      
+    }
+   
+]
