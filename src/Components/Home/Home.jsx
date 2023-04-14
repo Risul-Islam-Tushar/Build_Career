@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { useLoaderData } from 'react-router-dom';
 import SingleJob from '../SingleJob';
+import homeImage from '../../../All Images/P3OLGJ1 copy 1.png'
 
 
 const Home = () => {
@@ -26,7 +27,7 @@ const Home = () => {
                     </button>
                 </div>
                 <div>
-                    <img src="../../../All Images/P3OLGJ1 copy 1.png" alt="" />
+                    <img src={homeImage}/>
                 </div>
             </div>
             <div>
